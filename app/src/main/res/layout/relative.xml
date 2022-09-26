@@ -124,4 +124,18 @@
         android:textColor="#FAFAFA"
         android:textStyle="bold" />
 
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextTextPassword"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="270dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="35dp"
+        android:text="Cadastre-se"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" />
+
 </RelativeLayout>
